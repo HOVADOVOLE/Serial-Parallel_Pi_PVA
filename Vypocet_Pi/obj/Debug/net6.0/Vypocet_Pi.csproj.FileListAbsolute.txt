@@ -1,0 +1,15 @@
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\bin\Debug\net6.0\Vypocet_Pi.exe
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\bin\Debug\net6.0\Vypocet_Pi.deps.json
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\bin\Debug\net6.0\Vypocet_Pi.runtimeconfig.json
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\bin\Debug\net6.0\Vypocet_Pi.dll
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\bin\Debug\net6.0\Vypocet_Pi.pdb
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.csproj.AssemblyReference.cache
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.AssemblyInfoInputs.cache
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.AssemblyInfo.cs
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.csproj.CoreCompileInputs.cache
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.dll
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\refint\Vypocet_Pi.dll
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.pdb
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\Vypocet_Pi.genruntimeconfig.cache
+C:\Users\Domča\source\repos\2. ročník\Vypocet_Pi\Vypocet_Pi\obj\Debug\net6.0\ref\Vypocet_Pi.dll
